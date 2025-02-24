@@ -15,6 +15,7 @@ I'm a software developer student with a passion for learning and working with va
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![NextJS] (https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
 ## 📫 How to reach me
 - **Email**: [Click here to send me an email](mailto:interns-eli1@proton.me)
