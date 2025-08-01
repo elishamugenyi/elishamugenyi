@@ -31,7 +31,7 @@ I'm a software developer student with a passion for learning and working with va
 ## 🚀 Projects
 - [Social Gems](https://www.socialgems.me/)
 - [Africa Connect](https://africaconnect.uk/home)
-- [DevAssignSys] (https://eat-glade-20536092.figma.site/)
+- DevAssignSys (https://eat-glade-20536092.figma.site/)
 - Weather Guide App (https://elisha-weather-guide-app.netlify.app/): This Weather guide app provides updates to remote health workers to plan better their days and schedules.
 - [Chamber of commerce](https://elishamugenyi.github.io/wdd231/chamber/): The first of its kind chamber of commerce in Uganda for the customs and freight forwarders.
 
