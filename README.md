@@ -32,7 +32,6 @@ I'm a software developer student with a passion for learning and working with va
 - [Social Gems](https://www.socialgems.me/)
 - [Africa Connect](https://africaconnect.uk/home)
 - Weather Guide App (https://elisha-weather-guide-app.netlify.app/): This Weather guide app provides updates to remote health workers to plan better their days and schedules.
-- [Student Pay](https://elishamugenyi.github.io/wdd131/project/): Student Pay is a web app that enhances seamless payments to the university which saves time and money for the student.
 - [Chamber of commerce](https://elishamugenyi.github.io/wdd231/chamber/): The first of its kind chamber of commerce in Uganda for the customs and freight forwarders.
 
 ## 📈 GitHub Stats
