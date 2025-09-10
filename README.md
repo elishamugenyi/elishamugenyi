@@ -21,19 +21,19 @@ I'm a software developer student with a passion for learning and working with va
 <!-- - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile) -->
 - **GitHub**: [Elisha](https://github.com/elishamugenyi)
 
-## 🌱 What I'm currently learning
+## 🌱 What I Have Completed
 - Automation testing with selenium
-- HTML, CSS and Javascript
+- HTML, CSS, Javascript
 - Advanced JavaScript frameworks
-- Backend development with Node.js
+- Full stack Development with Node.js, Next.js, Nest.js, Python Flask and Django, React, Angular, Typescript, GraphQL, API building and integration.
 - Building scalable web applications with React and Angular
 
 ## 🚀 Projects
 - [Social Gems](https://www.socialgems.me/)
 - [Africa Connect](https://africaconnect.uk/home)
-- DevAssignSys (https://eat-glade-20536092.figma.site/)
-- Weather Guide App (https://elisha-weather-guide-app.netlify.app/): This Weather guide app provides updates to remote health workers to plan better their days and schedules.
-- [Chamber of commerce](https://elishamugenyi.github.io/wdd231/chamber/): The first of its kind chamber of commerce in Uganda for the customs and freight forwarders.
+- [KUSS-SRATP](kuss-sratp.vercel.app)
+- [DevAssignSys](https://eat-glade-20536092.figma.site/)
+- [Weather Guide App](https://elisha-weather-guide-app.netlify.app/): This Weather guide app provides updates to remote health workers to plan better their days and schedules.
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=elishamugenyi&show_icons=true&theme=radical)
