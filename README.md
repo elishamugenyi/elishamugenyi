@@ -25,11 +25,11 @@ I'm a software developer student with a passion for learning and working with va
 - Automation testing with selenium
 - HTML, CSS, Javascript
 - Advanced JavaScript frameworks
-- Full stack Development with Node.js, Next.js, Nest.js, Python Flask and Django, React, Angular, Typescript, GraphQL, API building and integration.
+- Full stack Development with Node.js, Next.js, Nest.js, React, Typescript, GraphQL, API building and integration.
 - Building scalable web applications with React and Angular
 
 ## 🚀 Projects
-- [Social Gems](https://www.socialgems.me/)
+- [SmartOps Ledger](https://smartopsledger.vercel.app/)
 - [Africa Connect](https://africaconnect.uk/home)
 - [KUSS-SRATP](kuss-sratp.vercel.app)
 - [DevAssignSys](https://eat-glade-20536092.figma.site/)
